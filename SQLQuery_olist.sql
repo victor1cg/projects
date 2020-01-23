@@ -1,4 +1,4 @@
-/*Dashboard do criado no Power BI
+/*Dashboard criado no Power BI
 https://app.powerbi.com/view?r=eyJrIjoiZmQ1NTQzM2MtMTUzNy00N2UyLWJiMTctYzU5ZWM0MzVkZjJiIiwid
 CI6IjhjYTZhODNhLWZmNzgtNGM3ZC04NDhlLTM4YWM2YTEyMWJiYiJ9
 --------------------------
